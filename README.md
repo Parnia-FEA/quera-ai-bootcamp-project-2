@@ -26,4 +26,3 @@ Multi-class classification task to predict user sentiment (1 to 5 stars).
 - Sobhan Jabari
 - Parnia Dabbagh
 - Pegah Gerailu
-- Amir Asadifard
